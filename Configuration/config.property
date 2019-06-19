@@ -1,0 +1,9 @@
+Browser=chrome
+
+ChromeDriver=webdriver.chrome.driver
+ChromePath=C:\\chromedriver_win32\\chromedriver.exe
+
+FirfoxDriver=webdriver.gecko.driver
+FirefoxPath=C:\\geckodriver-v0.18.0-win64\\geckodriver.exe
+
+URL=http://qaclickacademy.com

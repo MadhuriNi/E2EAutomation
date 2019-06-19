@@ -1,0 +1,6 @@
+pageObjects\TitlePage.class
+pageObjects\LandingPage.class
+pageObjects\LoginPage.class
+utility\ReadConfig.class
+Academy\Base.class
+Academy\App.class
